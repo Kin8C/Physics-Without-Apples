@@ -7,4 +7,3 @@ project involves the simulation of a parabolic movement, in which the user can m
 integrated programmable Arduino board. This hardware-software combination allows the user to have more control of the game.
 
 
-Pasos para jugar Menus: -Historia oSe cierra menú y abre otra ventana donde se va a mostrar la historia oBotón Continuar -Jugar oTipos: Arcade (niveles 1,2,3) Se muestran las instrucciones básicas del juego Sandbox (crear nivel) Se muestran las instrucciones de como jugar -Ranking oMuestra el puntaje (orden de mayor a menor) 
